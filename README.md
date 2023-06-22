@@ -1,11 +1,20 @@
-# Metacrafters 
+# METACRAFTERS SUMMER TRAINING
+# Description 
 
-## Description
+This repository contains all the projects I created and the languages I learnt during my 23' summer training.
+The various modules that I learnt were
 
-This repository includes all the assignments and projects I made during my training with Metacrafters
-in the summer of 2023
+ 1. JS proof - Beginner Course
+ 2. ETH proof - Beginner EVM Course
+ 3. ETH + AVAX proof - Intermediate EVM Course
+ 4. ETH proof - Advanced EVM Course
+ 5. POLY proof - Advanced Course
 
-## Authors
-
-Aaditya Sinha  
-[@Aaditya](https://twitter.com/aaadityasinha)
+# Getting Started
+### Installation
+You can download the program on your local server and run it using your preferred IDE and make sure you have the right extensions and compilers installed for the required language.
+# Author
+Aaditya Sinha
+[Twitter](https://twitter.com/aaadityasinha)
+[Linkedin](https://www.linkedin.com/in/aaditya-sinha-53530723a/)
+[Telegram](https://t.me/aaditya_sinha)
