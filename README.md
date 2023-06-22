@@ -16,5 +16,7 @@ You can download the program on your local server and run it using your preferre
 # Author
 Aaditya Sinha
 [Twitter](https://twitter.com/aaadityasinha)
+
 [Linkedin](https://www.linkedin.com/in/aaditya-sinha-53530723a/)
+
 [Telegram](https://t.me/aaditya_sinha)
